@@ -1,0 +1,27 @@
+[
+ {
+  "version": "1.0",
+  "date": "2026-10-07",
+  "source_rev": "0029f0f1ea8a",
+  "sets": {
+   "core": {
+    "file": "core.kmj",
+    "faces": 69668,
+    "bytes": 12793504,
+    "sha256": "3e36cbcb107a60c74baf116a2b617b112c82cf53f8ea67d5973f649ad65e2cc1"
+   },
+   "full": {
+    "file": "full.kmj",
+    "faces": 176126,
+    "bytes": 24284640,
+    "sha256": "dc493850c98621780073c8e75d009eb1179ed441e8083748e49189d680c4cd2d"
+   },
+   "lite": {
+    "file": "lite.kmj",
+    "faces": 69668,
+    "bytes": 11116440,
+    "sha256": "d2a7234bb3d9f1d6edd62479045f05490da0c8ffb89c8b6ed3af2b0ce459025c"
+   }
+  }
+ }
+]
